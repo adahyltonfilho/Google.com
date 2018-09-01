@@ -1,0 +1,99 @@
+@charset utf-8;            
+IMG.principal {
+margin-top: 109px;
+width="272px";
+height="92px";
+align-items: center;
+
+}
+
+header nav ul li
+{
+    list-style-type: none;
+    display: inline;
+    float: right;
+}
+center
+{clear: both;}
+
+IMG.pesquisar{
+    margin-top: 10px;
+    align-items: center;
+    width="140px";
+    height="35px";
+}
+.imagemcentral{
+    clear: both;
+    align-items: center;
+    
+}
+IMG.iconessuperiorquadrado{
+    margin-top: 10px;
+    align-items: center;
+    width=140px;
+    height=35px;
+    padding: 2px;
+    margin: 5px;
+}
+iconessuperiorlogin{
+    margin-top: 5px;
+        padding: 2px;
+    margin: 5px;
+
+
+}
+a.link 
+{ 
+text-decoration:none;
+
+
+
+
+} 
+H4{
+    color:(0,0,0,87);
+
+
+    padding: 2px;
+    margin: 5px;
+
+    
+}
+
+.MENU{
+
+    align-content: right;
+    clear: both;
+    align-items: center;
+
+    
+}
+
+.maior
+{
+margin-top: 20%;
+width: 100%;
+background-color: grey;
+height: 40px;
+}
+
+.esquerda
+{  
+    width: 50%;
+      background-color: black;
+    height: 40px;
+    float: left;
+}
+
+.direita
+{
+     width: 50%;
+      background-color: green;
+    height: 40px;
+     float: right;
+}
+
+            
+                
+                    
+            
